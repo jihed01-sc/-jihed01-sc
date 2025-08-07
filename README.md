@@ -22,10 +22,9 @@ I'm a passionate developer and researcher **building AI-powered security solutio
 
 ```text
 🌐 Languages     Python, JavaScript, C++, Java
-🤖 AI/ML         TensorFlow, PyTorch, Scikit-learn, OpenCV
-🔒 Security      Penetration Testing, Network Security, Cryptography
-📊 Data Science  Pandas, NumPy, Matplotlib, Jupyter
-☁️ Cloud         AWS, Azure, Docker, Kubernetes
+🤖 AI/ML         TensorFlow, PyTorch, Scikit-learn, OpenCV,Pandas, NumPy, Matplotlib, Jupyter
+🔒 Security       Network Security, Cryptography
+☁️ Cloud         AWS, Docker, Kubernetes
 🛠️ Tools         Git, Linux, Wireshark, Metasploit
 ```
 
