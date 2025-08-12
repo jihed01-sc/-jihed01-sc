@@ -56,7 +56,7 @@ I'm always interested in collaborating on projects related to:
 - 🛡️ Automated security tools
 ```
 ### 📫 How to Reach Me
-
+```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jihed-amor](https://www.linkedin.com/in/jihed-amor-47a66222b))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihed.amor@enetcom.u-sfax.tn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jihed01-sc)
@@ -64,6 +64,7 @@ I'm always interested in collaborating on projects related to:
 ## 💡 Current Focus
 
 ```yaml
+```
 learning:
   - Advanced AI Security Techniques
   - Zero Trust Architecture
@@ -80,7 +81,7 @@ exploring:
   - Adversarial AI and defense mechanisms
   - Blockchain security applications
 ```
-
+```
 ## 📈 Activity Graph
 
 [![Jihed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jihed01-sc&theme=react-dark)](https://github.com/jihed01-sc)
