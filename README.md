@@ -32,7 +32,7 @@ I'm a passionate developer and researcher **building AI-powered security solutio
 - **Security**:  NIST ,NIS2.0 ,iso27001,iec 62443:Frameworks ,Threat Modeling,OWASP,
 - **Languages**: Python, JavaScript, SQL
 - **Tools**: Docker, Git, Security Testing Frameworks
-
+```
 ## 🌟 Featured Projects
 
 *Coming Soon!* I'm currently working on exciting projects that combine AI and cybersecurity. Stay tuned for:
@@ -54,7 +54,7 @@ I'm always interested in collaborating on projects related to:
 - 🤖 Machine learning applications in security
 - 📡 IoT security solutions
 - 🛡️ Automated security tools
-
+```
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jihed-amor](https://www.linkedin.com/in/jihed-amor-47a66222b))
