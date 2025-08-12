@@ -21,12 +21,17 @@ I'm a passionate developer and researcher **building AI-powered security solutio
 ## 🔧 Technologies & Tools
 
 ```text
-🌐 Languages     Python, JavaScript, C++, Java
-🤖 AI/ML         TensorFlow, PyTorch, Scikit-learn, OpenCV,Pandas, NumPy, Matplotlib, Jupyter
-🔒 Security       Network Security, Cryptography
-☁️ Cloud         AWS, Docker, Kubernetes
-🛠️ Tools         Git, Linux, Wireshark, Metasploit
-```
+## 🔒 AI Security Focus Areas
+- **Adversarial ML Defense**: Protecting AI models from attacks
+- **Biometric Security**: Secure facial recognition and authentication
+- **Compliance Automation**: AI governance and risk management
+- **Threat Detection**: ML-powered security monitoring
+
+## 🛠️ Security Tech Stack
+- **AI/ML**: TensorFlow, PyTorch, Transformers, Computer Vision
+- **Security**:  NIST ,NIS2.0 ,iso27001,iec 62443:Frameworks ,Threat Modeling,OWASP,
+- **Languages**: Python, JavaScript, SQL
+- **Tools**: Docker, Git, Security Testing Frameworks
 
 ## 🌟 Featured Projects
 
